@@ -65,7 +65,7 @@ def generate_password(
     return passwords
 
 
-if __name__ == '__main__':
+def run():
     parser = argparse.ArgumentParser(description='Generate password')
     parser.add_argument(
         '--total-passwords',

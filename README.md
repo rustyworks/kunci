@@ -1,8 +1,8 @@
-# password-generator
+# KUNCI
 Random password generator - To prevent annoying password restriction  
 
 ```
-usage: genpass [-h] [--total-passwords TOTAL_PASSWORDS]  
+usage: kunci [-h] [--total-passwords TOTAL_PASSWORDS]  
                [--total-characters TOTAL_CHARACTERS]  
                [--total-uppercase TOTAL_UPPERCASE]  
                [--total-numbers TOTAL_NUMBERS]  
