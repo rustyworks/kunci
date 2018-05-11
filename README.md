@@ -1,6 +1,9 @@
 # KUNCI
 Random password generator - To prevent annoying password restriction  
 
+installation: `pip install kunci`  
+
+
 ```
 usage: kunci [-h] [--total-passwords TOTAL_PASSWORDS]  
                [--total-characters TOTAL_CHARACTERS]  
